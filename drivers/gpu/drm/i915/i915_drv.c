@@ -1188,7 +1188,7 @@ int i915_driver_load(struct pci_dev *pdev, const struct pci_device_id *ent)
 	struct drm_i915_private *dev_priv;
 	int ret;
 
-	if (i915.nuclear_pageflip)
+	//if (i915.nuclear_pageflip)
 		driver.driver_features |= DRIVER_ATOMIC;
 
 	ret = -ENOMEM;
