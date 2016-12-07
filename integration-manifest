@@ -1,0 +1,22 @@
+drm-intel drm-intel-fixes 3e5de27e940d00d8d504dfb96625fb654f641509
+	Linux 4.9-rc8
+drm-upstream drm-fixes ab7cd8d83e5dba13027de66f1b008b08b30b71a4
+	Merge tag 'drm-intel-fixes-2016-12-01' of git://anongit.freedesktop.org/git/drm-intel into drm-fixes
+drm-intel drm-intel-next-fixes 7a9e10253e9e52451bbe80ddb2874368dbd240a3
+	drm/i915: Move priority bumping for flips earlier
+drm-intel drm-intel-next-queued c499af5a692fa39644ce7979b4dea5db794df78b
+	drm/i915/guc: Drop comment on fwif autogeneration
+drm-upstream drm-next 197aa6ed522cc44710687d3b02dd4e4573991416
+	Merge branch 'exynos-drm-next' of git://git.kernel.org/pub/scm/linux/kernel/git/daeinki/drm-exynos into drm-next
+sound-upstream for-next fd1a5059610cd3887f1050171a840ca864108730
+	ALSA: usb-audio: more tolerant packetsize
+sound-upstream for-linus f73cd43ac3b41c0f09a126387f302bbc0d9c726d
+	ALSA: hda - Gate the mic jack on HP Z1 Gen3 AiO
+drm-intel topic/core-for-CI 166d729b45d95570a75bc01a22c6b4c478ad79aa
+	mm/vmalloc: Replace opencoded 4-level page walkers
+drm-misc drm-misc-next 8f34a548718ebb4becb4f829800552c48284ce9e
+	drm/bridge: analogix: Don't return -EINVAL when panel doesn't support PSR
+drm-misc drm-misc-next-fixes 1001354ca34179f3db924eb66672442a173147dc
+	Linux 4.9-rc1
+drm-misc drm-misc-fixes e94bd1736f1f60e916a85a80c0b0ebeaae36cce5
+	drm: Don't call drm_for_each_crtc with a non-KMS driver
